@@ -1,0 +1,74 @@
+body {
+  padding-top: 5rem;
+  margin: 5em;
+  color: black;
+  background: white;
+  font-family:monaco
+
+  
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: left;
+ 
+  
+}
+.nav-p{
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+
+  line-height:inherit;
+  white-space:nowrap;
+  color: white;
+  
+}
+
+.navbar-brand,
+.navbar-nav a {
+  font-family: 'monaco';
+}
+      .jumbotron {background: linear-gradient(6deg, #e139e5, #bb4ef2, #11a9f8, #20ed2d, #f68b2b, #f62b2b);
+    background-size: 1200% 1200%;
+
+    webkit-animation: AnimationName 4s ease infinite;
+    moz-animation: AnimationName 4s ease infinite;
+        animation: AnimationName 4s ease infinite;}
+      @-webkit-keyframes AnimationName {
+    0%{background-position:0% 96%}
+    50%{background-position:100% 5%}
+    100%{background-position:0% 96%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 96%}
+    50%{background-position:100% 5%}
+    100%{background-position:0% 96%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 96%}
+    50%{background-position:100% 5%}
+    100%{background-position:0% 96%}
+}
+      body{background: linear-gradient(6deg, #e139e5, #bb4ef2, #11a9f8, #20ed2d, #f68b2b, #f62b2b);
+    background-size: 1200% 1200%;
+
+    webkit-animation: AnimationName 4s ease infinite;
+    moz-animation: AnimationName 4s ease infinite;
+        animation: AnimationName 4s ease infinite;}
+      @-webkit-keyframes AnimationName {
+    0%{background-position:0% 96%}
+    50%{background-position:100% 5%}
+    100%{background-position:0% 96%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 96%}
+    50%{background-position:100% 5%}
+    100%{background-position:0% 96%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 96%}
+    50%{background-position:100% 5%}
+    100%{background-position:0% 96%}
+}}
